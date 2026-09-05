@@ -1,20 +1,26 @@
 # Week 2 – Advanced Data Visualization and Storytelling with Python
 
-This folder contains the complete work for Week 2.
+## Project Overview
 
-## Project
+This project focuses on advanced data visualization and data storytelling using Python.
 
-Advanced Data Visualization and Storytelling using the Netflix Movies and TV Shows dataset.
+The Netflix Movies and TV Shows dataset is analyzed to identify trends, patterns, relationships, and insights that can be communicated effectively to a non-technical audience.
 
 ## Objectives
 
-- Perform data exploration and preprocessing
-- Create advanced visualizations
-- Identify trends and patterns
-- Develop a coherent data story
-- Communicate insights to a non-technical audience
+- Explore and understand the Netflix dataset
+- Perform data preprocessing and cleaning
+- Analyze trends and patterns
+- Create at least five meaningful visualizations
+- Apply data storytelling techniques
+- Identify important insights and anomalies
+- Discuss potential business implications
 
-## Tools Used
+## Dataset
+
+Netflix Movies and TV Shows dataset from Kaggle.
+
+## Tools and Technologies
 
 - Python
 - Pandas
@@ -23,3 +29,18 @@ Advanced Data Visualization and Storytelling using the Netflix Movies and TV Sho
 - Seaborn
 - Plotly
 - Kaggle Notebook
+
+## Planned Visualizations
+
+1. Netflix content growth over time
+2. Movies vs TV Shows
+3. Top countries by content
+4. Top Netflix genres
+5. Content rating distribution
+6. Genre vs Content Type heatmap
+
+## Deliverables
+
+- Python/Jupyter Notebook
+- Visualization files
+- Final DOCX report
